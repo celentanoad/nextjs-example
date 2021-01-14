@@ -120,3 +120,8 @@
     flex-direction: column;
   }
 }
+
+.link:hover {
+  color: #0070f3;
+  border-color: #0070f3;
+}
